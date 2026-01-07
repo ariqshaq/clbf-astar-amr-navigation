@@ -1,4 +1,4 @@
-# clbf-astar-amr-navigation
+# **Control Lyapunov-Barrier Function (CLBF) with A* Path Planning for AMR Navigation**
 
 # MAP 1 TEST
 
