@@ -25,4 +25,4 @@ https://github.com/user-attachments/assets/08652f49-c4d4-4a49-a65a-4bfbdc5bb57c
 https://github.com/user-attachments/assets/fa43f1f0-4c07-4bd2-9597-5365bb774ef5
 
 
-Other Links to the Videos are here: https://drive.google.com/drive/folders/1Tk5uCVjrHHLDrrQwAKOU7TFLLHDVDchV?usp=drive_link
+Here is another link to the videos: https://drive.google.com/drive/folders/1Tk5uCVjrHHLDrrQwAKOU7TFLLHDVDchV?usp=drive_link
