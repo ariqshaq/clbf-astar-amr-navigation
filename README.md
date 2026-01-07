@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/f1684120-59cf-4681-9523-29cef86806f4
 
 https://github.com/user-attachments/assets/08652f49-c4d4-4a49-a65a-4bfbdc5bb57c
 
-# LiDAR PLOT ON MAP 3
+# LIDAR PLOT ON MAP 3
 
 https://github.com/user-attachments/assets/fa43f1f0-4c07-4bd2-9597-5365bb774ef5
 
